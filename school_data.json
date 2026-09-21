@@ -1,0 +1,53 @@
+{
+    "students": [
+        {
+            "name": "abhishek",
+            "age": 23,
+            "email": "abhi@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "math": 90.0,
+                "science": 45.0
+            }
+        },
+        {
+            "name": "abhishek",
+            "age": 25,
+            "email": "abhirawat8368@gmail.com",
+            "roll_no": "3",
+            "grades": {
+                "physics": 0.0049
+            }
+        },
+        {
+            "name": "soni",
+            "age": 15,
+            "email": "soni@gmail.com",
+            "roll_no": "2",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "abhi",
+            "age": 56,
+            "email": "add@gmail.com",
+            "subject": "maths",
+            "emp_id": "1"
+        },
+        {
+            "name": "rahul",
+            "age": 30,
+            "email": "rahu@gmail.com",
+            "subject": "physics",
+            "emp_id": "3"
+        },
+        {
+            "name": "paras",
+            "age": 30,
+            "email": "p@gmail.com",
+            "subject": "hindi",
+            "emp_id": "2"
+        }
+    ]
+}
